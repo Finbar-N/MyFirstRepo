@@ -1,0 +1,2 @@
+- In the SE 102 course so far, I've learnt basic Git commands like 'git commit' and "git status'.
+I've also learnt the important of version control systems (Git) in handling projects.
